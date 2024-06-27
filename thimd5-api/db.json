@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Tieu thuyet",
+      "description": "Tieu thuyet...."
+    },
+    {
+      "id": 2,
+      "name": "Truyen cuoi",
+      "description": "Tryen cuoi...."
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "bookId": "BO-1234",
+      "name": "Tinh yeu",
+      "categoryId": 1,
+      "date": "2024-06-20",
+      "quantity": 4
+    },
+    {
+      "id": 2,
+      "bookId": "BO-1235",
+      "name": "truyen cuoi 1",
+      "categoryId": 1,
+      "date": "2024-06-20",
+      "quantity": 5
+    },
+    {
+      "bookId": "BO-123444",
+      "name": "Trang Luong ",
+      "categoryId": "1",
+      "date": "2222-02-22",
+      "quantity": "2",
+      "id": 3
+    },
+    {
+      "bookId": "BO-123444",
+      "name": "Bac Ba Phi ",
+      "categoryId": "1",
+      "date": "2222-02-22",
+      "quantity": "2",
+      "id": 4
+    },
+    {
+      "bookId": "BO-0125",
+      "name": "Mat Biec",
+      "categoryId": "1",
+      "date": "2024-06-27",
+      "quantity": "10",
+      "id": 5
+    }
+  ]
+}
